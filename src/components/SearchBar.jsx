@@ -35,7 +35,7 @@ export default function SearchBar({ onSearch }) {
       </div>
 
       <div className="mt-3 text-sm text-gray-500">
-        Tip: choose <strong>Name</strong> to search meal names (e.g., "Arrabiata") or <strong>Ingredient</strong> to find meals using an ingredient (e.g., "chicken").
+        Tip: select <strong>Name</strong> to search meal names (e.g., "pasta") or <strong>Ingredient</strong> to find meals using an ingredient (e.g., "chicken").
       </div>
     </form>
   );
